@@ -1,2 +1,2 @@
-# C26
-Pirates invasion game with cannonballs and boat disappearing once they collide.
+# PRO-C25-Reference
+Reference code for C25
